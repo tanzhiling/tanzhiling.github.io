@@ -1,0 +1,1 @@
+import{o as r,c as s}from"./index-44f76e43.js";const _=(e,t)=>{const c=e.__vccOpts||e;for(const[n,o]of t)c[n]=o;return c},a={};function f(e,t){return r(),s("div",null,"购物车")}const d=_(a,[["render",f]]);export{d as default};
